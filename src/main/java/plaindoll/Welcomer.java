@@ -14,10 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayHunter(){
-<<<<<<< HEAD
-		return "Good hunter!";
-=======
 		return "Good hunter.";
->>>>>>> e286f68530b720351bf379af44b529e6cef53423
 	}
 }
